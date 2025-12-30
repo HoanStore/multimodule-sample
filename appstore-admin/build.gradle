@@ -10,6 +10,7 @@ dependencies {
 
     implementation project(':appstore-core:domain')
     implementation project(':appstore-core:infra')
+    implementation project(':global-utils')
 
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 
